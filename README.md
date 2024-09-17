@@ -71,11 +71,6 @@
 
 使用CLion连接服务器开发，待完善...
 
-<img src=".\picture\01.png" alt="01项目目录结构" style="zoom:80%;" />
-
-
-
-
 
 ## Json介绍
 
